@@ -1,2 +1,0 @@
-# reactstore
-Created with CodeSandbox
